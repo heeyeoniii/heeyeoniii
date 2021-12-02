@@ -1,5 +1,9 @@
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heeyeoniii&show_icons=true&theme=buefy)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=buefy)
+
+출처: https://eunhee-programming.tistory.com/244 [코드짜는 문과녀]
 <!--
 **heeyeoniii/heeyeoniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
